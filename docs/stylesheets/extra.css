@@ -1,0 +1,53 @@
+:root {
+  --md-primary-fg-color: #e8e447;
+}
+
+/*.md-header {   line for the top header
+    border-bottom: 3px dotted #e8e447;
+}*/
+
+/*.md-tabs {  dashed line for the collapsible header
+    border-bottom: 1px dashed #b5e847;
+}*/
+
+.md-typeset .md-button {
+    border: 1.5px inset #e8e447;
+    margin: 3px;
+    font-weight: 400;
+    letter-spacing: 3.5px;
+}
+
+.how-to {
+    letter-spacing: 3.3px;
+}
+
+.banner {
+    margin: 40px 0 40px 0;
+}
+
+/*h1 {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e8e447;
+}*/
+
+h2 {
+    padding-left: 10px;
+    border-left: 1px dashed #e8e447;
+}
+
+.md-footer-meta {
+    background-color: #080808;
+}
+
+.md-header {
+    background-color: #080808;
+}
+
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: rgb(21, 21, 21); /* set sitewide background color*/
+  --md-typeset-color: #cecac3; /* set sitewide text color */
+  --md-code-bg-color: rgb(37, 41, 48); /* set code-blocks background color*/
+  --md-footer-bg-color: #080808; /* set footer background color */
+  /* --md-typeset-a-color: #51c0f5; */
+}

@@ -1,0 +1,5 @@
+my additions:
+
+- If at first launch Grin++ is stuck at "Initializing...", then close it and relaunch.
+- When trying to withdraw from Kucoin exchange, use `http://<youraddress>.grincoins.com` instead of `http://<youraddress>.grinplusplus.com`
+- Don't let PC sleep while syncing? When you wake him up, either he will be looking for new peers or begin his sync from 0% (although maybe some of it was downloaded and it counts from 0% but with less work ahead?)
