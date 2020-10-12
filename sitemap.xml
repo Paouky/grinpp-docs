@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://grinplusplus.github.io/docs/</loc>
+     <lastmod>2020-10-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://grinplusplus.github.io/docs/setup/</loc>
+     <lastmod>2020-10-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://grinplusplus.github.io/docs/receive/</loc>
+     <lastmod>2020-10-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://grinplusplus.github.io/docs/send/</loc>
+     <lastmod>2020-10-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://grinplusplus.github.io/docs/balance/</loc>
+     <lastmod>2020-10-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://grinplusplus.github.io/docs/settings/</loc>
+     <lastmod>2020-10-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://grinplusplus.github.io/docs/build/</loc>
+     <lastmod>2020-10-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://grinplusplus.github.io/docs/api/</loc>
+     <lastmod>2020-10-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
